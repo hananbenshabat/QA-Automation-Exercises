@@ -1,0 +1,161 @@
+[INFO ] 2021-05-26 17:44:05.348 [main] ProductSearchTest - ***********************************************************************************************
+[INFO ] 2021-05-26 17:44:05.350 [main] ProductSearchTest - $$$$$$$$$$$$$$$$$$$$$$               ProductSearchTest               $$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2021-05-26 17:44:05.350 [main] ProductSearchTest - ***********************************************************************************************
+[INFO ] 2021-05-26 17:44:06.990 [main] ProductSearchTest - %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%TEST-1%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[DEBUG] 2021-05-26 17:44:08.227 [main] ProductSearchTest - importing the data and entering it
+[DEBUG] 2021-05-26 17:44:08.269 [main] ProductSearchTest - clicking on the search button
+[INFO ] 2021-05-26 17:44:09.686 [main] ProductSearchTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:44:09.700 [main] ProductSearchTest - 1 products found
+[INFO ] 2021-05-26 17:44:09.714 [main] ProductSearchTest - %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%TEST-2%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[DEBUG] 2021-05-26 17:44:10.086 [main] ProductSearchTest - importing the data and entering it
+[DEBUG] 2021-05-26 17:44:10.118 [main] ProductSearchTest - clicking on the search button
+[INFO ] 2021-05-26 17:44:11.683 [main] ProductSearchTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:44:11.690 [main] ProductSearchTest - 8 products found
+[INFO ] 2021-05-26 17:44:11.799 [main] ProductSearchTest - %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%TEST-3%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[DEBUG] 2021-05-26 17:44:12.173 [main] ProductSearchTest - clicking on the search button
+[INFO ] 2021-05-26 17:44:13.431 [main] ProductSearchTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:44:13.440 [main] ProductSearchTest - 0 products found
+[INFO ] 2021-05-26 17:44:14.044 [main] ProductSearchTest - Test finished successfully.
+[INFO ] 2021-05-26 17:44:14.044 [main] ProductSearchTest - ###############################################################################################
+[INFO ] 2021-05-26 17:44:14.045 [main] ProductSearchTest - XXXXXXXXXXXXXXXXXXXXXXXXXXX               -E---N---D-               XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2021-05-26 17:44:14.045 [main] ProductSearchTest - ###############################################################################################
+[INFO ] 2021-05-26 17:44:14.045 [main] PaymentPageTest - ***********************************************************************************************
+[INFO ] 2021-05-26 17:44:14.045 [main] PaymentPageTest - $$$$$$$$$$$$$$$$$$$$$$               PaymentPageTest               $$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2021-05-26 17:44:14.045 [main] PaymentPageTest - ***********************************************************************************************
+[INFO ] 2021-05-26 17:44:15.044 [main] PaymentPageTest - %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%TEST-1%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[DEBUG] 2021-05-26 17:44:17.127 [main] PaymentPageTest - clicking on the add to cart button
+[DEBUG] 2021-05-26 17:44:17.166 [main] PaymentPageTest - clicking on the checkout button
+[INFO ] 2021-05-26 17:44:18.579 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:44:18.579 [main] PaymentPageTest - Step 1: Checkout Options
+[DEBUG] 2021-05-26 17:44:18.591 [main] PaymentPageTest - clicking on the guest checkout button
+[INFO ] 2021-05-26 17:44:19.615 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[DEBUG] 2021-05-26 17:44:19.626 [main] PaymentPageTest - clicking on the continue button
+[INFO ] 2021-05-26 17:44:20.652 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:44:20.652 [main] PaymentPageTest - Step 2 & 3: Billing & Delivery Details
+[DEBUG] 2021-05-26 17:44:20.677 [main] PaymentPageTest - entering first name
+[DEBUG] 2021-05-26 17:44:20.733 [main] PaymentPageTest - entering last name
+[DEBUG] 2021-05-26 17:44:20.785 [main] PaymentPageTest - entering email
+[DEBUG] 2021-05-26 17:44:20.836 [main] PaymentPageTest - entering telephone
+[DEBUG] 2021-05-26 17:44:20.886 [main] PaymentPageTest - entering company
+[DEBUG] 2021-05-26 17:44:20.934 [main] PaymentPageTest - entering adress 1
+[DEBUG] 2021-05-26 17:44:20.986 [main] PaymentPageTest - entering adress 2
+[DEBUG] 2021-05-26 17:44:21.036 [main] PaymentPageTest - entering city
+[DEBUG] 2021-05-26 17:44:21.083 [main] PaymentPageTest - entering postcode
+[DEBUG] 2021-05-26 17:44:21.114 [main] PaymentPageTest - selecting country
+[INFO ] 2021-05-26 17:44:22.171 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[DEBUG] 2021-05-26 17:44:22.182 [main] PaymentPageTest - selecting region
+[INFO ] 2021-05-26 17:44:23.226 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[DEBUG] 2021-05-26 17:44:23.248 [main] PaymentPageTest - clicking on the continue button
+[INFO ] 2021-05-26 17:44:24.283 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:44:24.283 [main] PaymentPageTest - Step 4: Delivery Method
+[DEBUG] 2021-05-26 17:44:24.298 [main] PaymentPageTest - clicking on the continue button
+[INFO ] 2021-05-26 17:44:25.337 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:44:25.337 [main] PaymentPageTest - Step 5: Payment Method
+[DEBUG] 2021-05-26 17:44:25.345 [main] PaymentPageTest - clicking on the terms & conditions button
+[DEBUG] 2021-05-26 17:44:25.372 [main] PaymentPageTest - clicking on the continue button
+[INFO ] 2021-05-26 17:44:26.405 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:44:26.405 [main] PaymentPageTest - Step 6: Confirm Order
+[DEBUG] 2021-05-26 17:44:26.427 [main] PaymentPageTest - clicking on the confirm order button
+[INFO ] 2021-05-26 17:44:27.454 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:44:27.454 [main] PaymentPageTest - %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%TEST-2%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[DEBUG] 2021-05-26 17:44:28.120 [main] PaymentPageTest - clicking on the add to cart button
+[DEBUG] 2021-05-26 17:44:28.153 [main] PaymentPageTest - clicking on the checkout button
+[INFO ] 2021-05-26 17:44:29.419 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:44:29.419 [main] PaymentPageTest - Step 1: Checkout Options
+[DEBUG] 2021-05-26 17:44:29.427 [main] PaymentPageTest - clicking on the guest checkout button
+[INFO ] 2021-05-26 17:44:30.452 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[DEBUG] 2021-05-26 17:44:30.472 [main] PaymentPageTest - clicking on the continue button
+[INFO ] 2021-05-26 17:44:31.506 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:44:31.506 [main] PaymentPageTest - Step 2 & 3: Billing & Delivery Details
+[DEBUG] 2021-05-26 17:44:31.560 [main] PaymentPageTest - entering first name
+[DEBUG] 2021-05-26 17:44:31.612 [main] PaymentPageTest - entering last name
+[DEBUG] 2021-05-26 17:44:31.657 [main] PaymentPageTest - entering email
+[DEBUG] 2021-05-26 17:44:31.711 [main] PaymentPageTest - entering telephone
+[WARN ] 2021-05-26 17:44:31.711 [main] PaymentPageTest - no data found in row 1, column 4
+[DEBUG] 2021-05-26 17:44:31.737 [main] PaymentPageTest - entering company
+[DEBUG] 2021-05-26 17:44:31.788 [main] PaymentPageTest - entering adress 1
+[DEBUG] 2021-05-26 17:44:31.838 [main] PaymentPageTest - entering adress 2
+[DEBUG] 2021-05-26 17:44:31.886 [main] PaymentPageTest - entering city
+[DEBUG] 2021-05-26 17:44:31.933 [main] PaymentPageTest - entering postcode
+[DEBUG] 2021-05-26 17:44:31.960 [main] PaymentPageTest - selecting country
+[INFO ] 2021-05-26 17:44:32.991 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[DEBUG] 2021-05-26 17:44:33.011 [main] PaymentPageTest - selecting region
+[INFO ] 2021-05-26 17:44:34.045 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[DEBUG] 2021-05-26 17:44:34.051 [main] PaymentPageTest - clicking on the continue button
+[INFO ] 2021-05-26 17:44:35.080 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:44:35.080 [main] PaymentPageTest - Step 4: Delivery Method
+[INFO ] 2021-05-26 17:44:35.098 [main] PaymentPageTest - %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%TEST-3%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[DEBUG] 2021-05-26 17:44:35.779 [main] PaymentPageTest - clicking on the add to cart button
+[DEBUG] 2021-05-26 17:44:35.814 [main] PaymentPageTest - clicking on the checkout button
+[INFO ] 2021-05-26 17:44:37.250 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:44:37.250 [main] PaymentPageTest - Step 1: Checkout Options
+[DEBUG] 2021-05-26 17:44:37.271 [main] PaymentPageTest - clicking on the guest checkout button
+[INFO ] 2021-05-26 17:44:38.301 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[DEBUG] 2021-05-26 17:44:38.321 [main] PaymentPageTest - clicking on the continue button
+[INFO ] 2021-05-26 17:44:39.369 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:44:39.369 [main] PaymentPageTest - Step 2 & 3: Billing & Delivery Details
+[DEBUG] 2021-05-26 17:44:39.397 [main] PaymentPageTest - entering first name
+[DEBUG] 2021-05-26 17:44:39.449 [main] PaymentPageTest - entering last name
+[DEBUG] 2021-05-26 17:44:39.498 [main] PaymentPageTest - entering email
+[DEBUG] 2021-05-26 17:44:39.546 [main] PaymentPageTest - entering telephone
+[DEBUG] 2021-05-26 17:44:39.594 [main] PaymentPageTest - entering company
+[DEBUG] 2021-05-26 17:44:39.641 [main] PaymentPageTest - entering adress 1
+[DEBUG] 2021-05-26 17:44:39.689 [main] PaymentPageTest - entering adress 2
+[DEBUG] 2021-05-26 17:44:39.735 [main] PaymentPageTest - entering city
+[DEBUG] 2021-05-26 17:44:39.781 [main] PaymentPageTest - entering postcode
+[DEBUG] 2021-05-26 17:44:39.809 [main] PaymentPageTest - selecting country
+[INFO ] 2021-05-26 17:44:40.834 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[DEBUG] 2021-05-26 17:44:40.843 [main] PaymentPageTest - selecting region
+[INFO ] 2021-05-26 17:44:41.872 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[DEBUG] 2021-05-26 17:44:41.884 [main] PaymentPageTest - clicking on the continue button
+[INFO ] 2021-05-26 17:44:42.913 [main] PaymentPageTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:44:42.913 [main] PaymentPageTest - Step 4: Delivery Method
+[INFO ] 2021-05-26 17:44:43.522 [main] PaymentPageTest - Test finished successfully.
+[INFO ] 2021-05-26 17:44:43.522 [main] PaymentPageTest - ###############################################################################################
+[INFO ] 2021-05-26 17:44:43.522 [main] PaymentPageTest - XXXXXXXXXXXXXXXXXXXXXXXXXXX               -E---N---D-               XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2021-05-26 17:44:43.523 [main] PaymentPageTest - ###############################################################################################
+[INFO ] 2021-05-26 17:44:43.525 [main] WebMapSearchTest - ***********************************************************************************************
+[INFO ] 2021-05-26 17:44:43.525 [main] WebMapSearchTest - $$$$$$$$$$$$$$$$$$$$$$               WebMapSearchTest               $$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2021-05-26 17:44:43.525 [main] WebMapSearchTest - ***********************************************************************************************
+[INFO ] 2021-05-26 17:44:44.540 [main] WebMapSearchTest - %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%TEST-1%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[DEBUG] 2021-05-26 17:44:46.244 [main] WebMapSearchTest - clicking on the About Us button
+[INFO ] 2021-05-26 17:44:47.487 [main] WebMapSearchTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:44:47.492 [main] WebMapSearchTest - %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%TEST-2%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[DEBUG] 2021-05-26 17:44:47.885 [main] WebMapSearchTest - clicking on the My Account button
+[INFO ] 2021-05-26 17:44:49.318 [main] WebMapSearchTest - 1000 milliseconds delay, for the site to load
+[DEBUG] 2021-05-26 17:44:49.328 [main] WebMapSearchTest - clicking on the Order History button
+[INFO ] 2021-05-26 17:44:50.739 [main] WebMapSearchTest - 1000 milliseconds delay, for the site to load
+[DEBUG] 2021-05-26 17:44:50.751 [main] WebMapSearchTest - clicking on the Wish List button
+[INFO ] 2021-05-26 17:44:52.161 [main] WebMapSearchTest - 1000 milliseconds delay, for the site to load
+[DEBUG] 2021-05-26 17:44:52.171 [main] WebMapSearchTest - clicking on the Newsletter button
+[INFO ] 2021-05-26 17:44:53.577 [main] WebMapSearchTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:44:54.198 [main] WebMapSearchTest - Test finished successfully.
+[INFO ] 2021-05-26 17:44:54.198 [main] WebMapSearchTest - ###############################################################################################
+[INFO ] 2021-05-26 17:44:54.198 [main] WebMapSearchTest - XXXXXXXXXXXXXXXXXXXXXXXXXXX               -E---N---D-               XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2021-05-26 17:44:54.198 [main] WebMapSearchTest - ###############################################################################################
+[INFO ] 2021-05-26 17:44:54.199 [main] ContactUsTest - ***********************************************************************************************
+[INFO ] 2021-05-26 17:44:54.199 [main] ContactUsTest - $$$$$$$$$$$$$$$$$$$$$$               ContactUsTest               $$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2021-05-26 17:44:54.199 [main] ContactUsTest - ***********************************************************************************************
+[INFO ] 2021-05-26 17:44:55.184 [main] ContactUsTest - %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%TEST-1%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[DEBUG] 2021-05-26 17:44:56.340 [main] ContactUsTest - entering name
+[DEBUG] 2021-05-26 17:44:56.391 [main] ContactUsTest - entering email
+[DEBUG] 2021-05-26 17:44:56.434 [main] ContactUsTest - entering enquiry
+[DEBUG] 2021-05-26 17:44:56.467 [main] ContactUsTest - clicking on the submit button
+[INFO ] 2021-05-26 17:44:57.891 [main] ContactUsTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:44:57.891 [main] ContactUsTest - %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%TEST-2%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[DEBUG] 2021-05-26 17:44:58.261 [main] ContactUsTest - entering name
+[DEBUG] 2021-05-26 17:44:58.305 [main] ContactUsTest - entering email
+[DEBUG] 2021-05-26 17:44:58.345 [main] ContactUsTest - entering enquiry
+[WARN ] 2021-05-26 17:44:58.345 [main] ContactUsTest - no data found in row 1, column 3
+[DEBUG] 2021-05-26 17:44:58.350 [main] ContactUsTest - clicking on the submit button
+[INFO ] 2021-05-26 17:44:59.601 [main] ContactUsTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:44:59.601 [main] ContactUsTest - %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%TEST-3%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[DEBUG] 2021-05-26 17:44:59.950 [main] ContactUsTest - entering name
+[DEBUG] 2021-05-26 17:44:59.995 [main] ContactUsTest - entering email
+[DEBUG] 2021-05-26 17:45:00.036 [main] ContactUsTest - entering enquiry
+[DEBUG] 2021-05-26 17:45:00.065 [main] ContactUsTest - clicking on the submit button
+[INFO ] 2021-05-26 17:45:01.314 [main] ContactUsTest - 1000 milliseconds delay, for the site to load
+[INFO ] 2021-05-26 17:45:01.912 [main] ContactUsTest - Test finished successfully.
+[INFO ] 2021-05-26 17:45:01.912 [main] ContactUsTest - ###############################################################################################
+[INFO ] 2021-05-26 17:45:01.913 [main] ContactUsTest - XXXXXXXXXXXXXXXXXXXXXXXXXXX               -E---N---D-               XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2021-05-26 17:45:01.913 [main] ContactUsTest - ###############################################################################################

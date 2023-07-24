@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.junit.runner.JUnitCore"/>
+    <fullyQualifiedTypeName name="org.junit.internal.TextListener"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.edge.EdgeDriver"/>
+    <fullyQualifiedTypeName name="chrome.GoogleSearchTest"/>
+    <fullyQualifiedTypeName name="edge.GoogleSearchTest"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By.ByClassName"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.Delayed"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+    <fullyQualifiedTypeName name="edge.LoggingDemo"/>
+    <fullyQualifiedTypeName name="edge.PaymentPageSanityTest"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver.Options"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver.Navigation"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver.TargetLocator"/>
+    <fullyQualifiedTypeName name="org.junit.After"/>
+    <fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Cell"/>
+    <fullyQualifiedTypeName name="automation.Driver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.NoSuchElementException"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="org.apache.xmlbeans.impl.xb.xsdschema.ListDocument.List"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xerces.internal.impl.xpath.XPath"/>
+    <fullyQualifiedTypeName name="sun.util.logging.resources.logging"/>
+    <fullyQualifiedTypeName name="automation.Log"/>
+</qualifiedTypeNameHistroy>
